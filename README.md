@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi there, I'm Leo! 
 
-<!--
-**Leochang7/leochang7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a Master's student in Computer Science at **Beijing Jiaotong University (BJTU)**.
 
-Here are some ideas to get you started:
+My primary research interests focus on **Intelligent Agents** and **Edge-Cloud Collaboration**. I am passionate about building efficient, distributed systems and exploring the frontiers of autonomous AI agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Education
+
+- **Beijing Jiaotong University** (2025 - Present)
+  - Master of Computer Science
+  - Research Focus: Agent Systems, Edge-Cloud Computing
+
+###  Research Interests
+
+-  **AI Agents:** Developing autonomous agents capable of planning, reasoning, and acting in complex environments.
+- ️ **Edge-Cloud Collaboration:** Optimizing resource allocation, task offloading, and collaborative inference between edge devices and cloud servers.
+
+###  Tech Stack
+
+- **Languages:** Python, C++, Java
+- **Frameworks & Tools:** PyTorch, TensorFlow, Docker, Kubernetes
+- **Areas:** Distributed Systems, Deep Learning, IoT
+
+---
+
+###  Connect with me
+
+-  Email: yjiezhang@bjtu.edu.cn
+-  Personal Website: [your-website-link]
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
