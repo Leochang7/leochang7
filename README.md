@@ -19,8 +19,8 @@ My primary research interests focus on **Intelligent Agents** and **Edge-Cloud C
 
 ###  Tech Stack
 
-- **Languages:** Python, C++, Java
-- **Frameworks & Tools:** PyTorch, TensorFlow, Docker, Kubernetes
+- **Languages:** Python, Java,C++
+- **Frameworks & Tools:** PyTorch, Docker,
 - **Areas:** Distributed Systems, Deep Learning, IoT
 
 ---
