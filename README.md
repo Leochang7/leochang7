@@ -11,6 +11,8 @@ My primary research interests focus on **Intelligent Agents** and **Edge-Cloud C
 - **Beijing Jiaotong University** (2025 - Present)
   - Master of Computer Science
   - Research Focus: Agent Systems, Edge-Cloud Computing
+- **Henan University** (2021 - 2025)
+  - Bachelor of Software Engineer
 
 ###  Research Interests
 
